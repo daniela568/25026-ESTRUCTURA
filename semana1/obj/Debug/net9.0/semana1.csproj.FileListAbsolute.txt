@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\bin\Debug\net9.0\semana1.exe
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\bin\Debug\net9.0\semana1.deps.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\bin\Debug\net9.0\semana1.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\bin\Debug\net9.0\semana1.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\bin\Debug\net9.0\semana1.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\refint\semana1.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\semana1.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana1\obj\Debug\net9.0\ref\semana1.dll
