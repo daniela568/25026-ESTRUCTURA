@@ -1,22 +1,22 @@
-// Clase Rectangulo: encapsula base y altura como datos primitivos
+// Esta clase representa un rectángulo. 
     public class Rectangulo
     {
         private double baseRect;   // Variable privada para la base
         private double altura;     // Variable privada para la altura
 
-        public Rectangulo(double baseRect, double altura)
+        public Rectangulo(double baseRect, double altura)  // En este constructor inicializo la base y la altura 
         {
             this.baseRect = baseRect;
             this.altura = altura;
         }
 
-        // CalcularArea devuelve un valor double, calcula el área del rectángulo
+          // Con este método calculo el área multiplicando base por altura.
         public double CalcularArea()
         {
             return baseRect * altura;
         }
 
-        // CalcularPerimetro devuelve un valor double, calcula el perímetro del rectángulo
+// Aquí calculo el perímetro sumando dos veces la base y dos veces la altura.
         public double CalcularPerimetro()
         {
             return 2 * (baseRect + altura);
