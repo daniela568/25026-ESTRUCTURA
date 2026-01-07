@@ -1,7 +1,7 @@
 using System; // Importo funcionalidades básicas de C#.
-using System.Collections.Generic; // Importo la librería para trabajar con listas.
+using System.Collections.Generic; 
 
-namespace AgendaTelefonica // Trabajo dentro del mismo espacio de nombres.
+namespace AgendaTelefonica 
 {
     public class Agenda // Creo la clase Agenda que maneja la lista de contactos.
     {
@@ -15,7 +15,7 @@ namespace AgendaTelefonica // Trabajo dentro del mismo espacio de nombres.
         public void AgregarContacto(Contacto c) // Defino el método para agregar un contacto.
         {
             contactos.Add(c); // Agrego el contacto recibido a la lista.
-            Console.WriteLine("✅ Contacto agregado correctamente."); // Muestro un mensaje de confirmación.
+            Console.WriteLine(" Contacto agregado correctamente."); // Muestro un mensaje de confirmación.
         }
 
         public void EliminarContacto(string nombre) // Defino el método para eliminar un contacto por nombre.
@@ -24,11 +24,11 @@ namespace AgendaTelefonica // Trabajo dentro del mismo espacio de nombres.
             if (c != null) // Verifico si lo encontré.
             {
                 contactos.Remove(c); // Elimino el contacto de la lista.
-                Console.WriteLine("🗑️ Contacto eliminado."); // Muestro un mensaje de confirmación.
+                Console.WriteLine(" Contacto eliminado."); // Muestro un mensaje de confirmación.
             }
             else
             {
-                Console.WriteLine("❌ Contacto no encontrado."); // Muestro un mensaje si no existe.
+                Console.WriteLine(" Contacto no encontrado."); // Muestro un mensaje si no existe.
             }
         }
 
@@ -36,14 +36,14 @@ namespace AgendaTelefonica // Trabajo dentro del mismo espacio de nombres.
         {
             Contacto c = contactos.Find(x => x.Nombre.Equals(nombre, StringComparison.OrdinalIgnoreCase)); // Busco el contacto en la lista.
             if (c != null) // Verifico si lo encontré.
-                Console.WriteLine("🔎 Encontrado: " + c); // Muestro el contacto encontrado.
+                Console.WriteLine(" Encontrado: " + c); // Muestro el contacto encontrado.
             else
-                Console.WriteLine("❌ No existe ese contacto."); // Muestro un mensaje si no existe.
+                Console.WriteLine(" No existe ese contacto."); // Muestro un mensaje si no existe.
         }
 
         public void ListarContactos() // Defino el método para listar todos los contactos.
         {
-            Console.WriteLine("\n📒 Agenda Telefónica:"); // Muestro un título para la lista.
+            Console.WriteLine("\n Agenda Telefónica:"); // Muestro un título para la lista.
             foreach (var c in contactos) // Recorro cada contacto en la lista.
             {
                 Console.WriteLine(c); // Muestro la información de cada contacto usando ToString().
