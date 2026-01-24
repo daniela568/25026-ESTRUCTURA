@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana_6_ListaAleatoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f3d4de2079fe3c5458cb9aaf05bb2e2368ac1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a46af751910ef6be4045a4f16475c9d8deb130")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana_6_ListaAleatoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana_6_ListaAleatoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
