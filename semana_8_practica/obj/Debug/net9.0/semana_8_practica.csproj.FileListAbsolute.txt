@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\bin\Debug\net9.0\semana_8_practica.exe
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\bin\Debug\net9.0\semana_8_practica.deps.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\bin\Debug\net9.0\semana_8_practica.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\bin\Debug\net9.0\semana_8_practica.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\bin\Debug\net9.0\semana_8_practica.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\refint\semana_8_practica.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\semana_8_practica.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_8_practica\obj\Debug\net9.0\ref\semana_8_practica.dll
