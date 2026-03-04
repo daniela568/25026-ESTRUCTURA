@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\bin\Debug\net9.0\semana_12_práctico.exe
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\bin\Debug\net9.0\semana_12_práctico.deps.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\bin\Debug\net9.0\semana_12_práctico.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\bin\Debug\net9.0\semana_12_práctico.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\bin\Debug\net9.0\semana_12_práctico.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\refint\semana_12_práctico.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\semana_12_práctico.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_12_práctico\obj\Debug\net9.0\ref\semana_12_práctico.dll
