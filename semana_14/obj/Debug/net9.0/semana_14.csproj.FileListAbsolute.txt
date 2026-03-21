@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\bin\Debug\net9.0\semana_14.exe
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\bin\Debug\net9.0\semana_14.deps.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\bin\Debug\net9.0\semana_14.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\bin\Debug\net9.0\semana_14.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\bin\Debug\net9.0\semana_14.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\refint\semana_14.dll
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.pdb
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\semana_14.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS_ESTRUCTURA\semana_14\obj\Debug\net9.0\ref\semana_14.dll
